@@ -11,4 +11,5 @@
 - 別途API連携したり別処理で、しりとりのフローを実現
 
 ---
-Demo URL
+[Demo URL](https://n-ao.github.io/Unity-WebGL-Shiritori-Demo/)
+
